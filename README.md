@@ -12,7 +12,7 @@ Other: RESTful APIs, Unit Testing, Jasmine testing, Jest
 
 ## Check out my portfolio HERE
 
-Breaking News App - capstone projects using python, flask, javascript, sqlalchemy, api [LINK]("https://github.com/sanamcha/Projects-Breaking-News-App")
+Breaking News App - capstone projects using python, flask, javascript, sqlalchemy, api.[Link](https://github.com/sanamcha/Projects-Breaking-News-App)
 
 Food Receipe Training App - capstone projects using Node js, React, postgres, api
 
