@@ -1,5 +1,3 @@
-# profile
-
 
 ## About me
 Full stack Software Engineer from San Fransisco Bay Area.
