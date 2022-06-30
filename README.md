@@ -16,7 +16,7 @@ Breaking News App - capstone projects using python, flask, javascript, sqlalchem
 
 Food Receipe Training App - capstone projects using Node js, React, postgres, api  [LINK](https://github.com/sanamcha/Food-Recipe-Training-App)  [LIVE](https://idiotic-cord.surge.sh)
 
-Jobly - a Full-stack mock job searching app using Node js, React, postgres database  [LINK](https://github.com/sanamcha/react-jobly)
+Jobly - a Full-stack mock job searching app using Node js, React, postgres database  [LINK](https://github.com/sanamcha/react-jobly)   [LIVE](https://curious-death.surge.sh/)
 
 ## Other projects
 
