@@ -30,8 +30,6 @@ Jeopardy - a playable version of Jeopardy using the Jeopardy API.
 
 Meme Generator - just a simple Front-end application for making memes.
 
-Bootstrap - something quick I whipped up when playing around with Bootstrap.
-
 Hack or Snooze - a project based on understanding RESTful API methods.
 
 ## Contact
