@@ -12,23 +12,24 @@ Other: RESTful APIs, Unit Testing, Jasmine testing, Jest
 
 ## Check out my portfolio HERE
 
-Breaking News App - capstone projects using python, flask, javascript, sqlalchemy, api.[Link](https://github.com/sanamcha/Projects-Breaking-News-App)
+Breaking News App - capstone projects using python, flask, javascript, sqlalchemy, api  [Link](https://github.com/sanamcha/Projects-Breaking-News-App)
 
-Food Receipe Training App - capstone projects using Node js, React, postgres, api
+Food Receipe Training App - capstone projects using Node js, React, postgres, api  [LINK](https://github.com/sanamcha/Food-Recipe-Training-App)  [LIVE](https://idiotic-cord.surge.sh)
 
-Jobly - a Full-stack mock job searching app using Node js, React, postgres database
+Jobly - a Full-stack mock job searching app using Node js, React, postgres database  [LINK](https://github.com/sanamcha/react-jobly)
 
 ## Other projects
 
-Memory Game - a Schitt's Creek themed memory game.
+Memory Game - a simple memory game.  [LINK](https://github.com/sanamcha/memoryGame)
 
-Connect Four - a simple Connect Four game.
+Connect Four - a Connect Four game using Object Oriented.  [LINK](https://github.com/sanamcha/connect4.io)
 
-Jeopardy - a playable version of Jeopardy using the Jeopardy API.
+Jeopardy - a Jeopardy game using the Jeopardy API.  [LINK](https://github.com/sanamcha/Jeopardy-Game)
 
-Meme Generator - just a simple Front-end application for making memes.
+Hack or Snooze - a frontend project based on understanding RESTful API methods.  [LINK](https://github.com/sanamcha/Hack-or-snooze)
 
-Hack or Snooze - a project based on understanding RESTful API methods.
+Flask Blogly -  [LINK](https://github.com/sanamcha/flask-blogly)
+
 
 ## Contact
 Feel free to get in touch with me!
